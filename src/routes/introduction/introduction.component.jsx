@@ -1,7 +1,4 @@
-import './introduction.style.scss'
-import Intro from '../components/intro/intro.component'
-
-
+import Intro from '../../components/intro/intro.component'
 
 const Introduction = () => {
     return (
