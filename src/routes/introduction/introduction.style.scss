@@ -1,3 +1,29 @@
-.introduction-header{
+* {
     font-family: 'Raleway', sans-serif;
+    color: #343437;
+    background-color: rgb(199, 225, 235);
+}
+
+.introduction-div {
+	display: grid;
+	place-items: center;
+    margin: 8em;
+}
+
+.btn-container { 
+    padding: 5em;
+    text-align: center;
+}
+
+.introduction-btn1 {
+    width:10em;
+    height: 5em;
+    text-align: center;
+    margin-right:6em;
+}
+.introduction-btn2 {
+    width:10em;
+    height: 5em;
+    text-align: center;
+    margin-left:6em;
 }
